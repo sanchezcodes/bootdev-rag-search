@@ -1,5 +1,5 @@
 def main():
-    print("Hello from bootdev-rag-search-engine!")
+    print("Hello from rag-search-engine!")
 
 
 if __name__ == "__main__":
